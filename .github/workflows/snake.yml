@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate snake
         run: |
-          github-contributions-chart --username Azures49 --output output/github-contribution-grid-snake.svg
+          github-contributions-chart --username Ya_serezka --output output/github-contribution-grid-snake.svg
 
       - name: Commit SVG
         run: |
