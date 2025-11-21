@@ -7,7 +7,7 @@
 
 ## 🐍 Моя GitHub змейка
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Azures49/Azures49/output/github-contribution-grid-snake.svg)
 
 > Змейка показывает мою активность на GitHub, динамически обновляется каждый день 🐍
 
@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Статистика
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azures49&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azures49&layout=compact&theme=dark&hide_border=true)](https://github.com/Azures49)
 
 ---
 
