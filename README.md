@@ -1,39 +1,37 @@
-# 👋 Привет, я Сергей!
+# Привет! 👋 Я Azures49!
 
-💻 Разрабатываю проекты на Python, C++, Docker и веб.  
-🚀 Люблю автоматизацию, боты и умные решения.  
-
----
-
-## 🐍 Моя GitHub змейка
-
-![Snake animation](https://raw.githubusercontent.com/Azures49/Azures49/output/github-contribution-grid-snake.svg)
-
-> Змейка показывает мою активность на GitHub, динамически обновляется каждый день 🐍
+Я разработчик, который любит исследовать новые технологии и делиться своими проектами на GitHub.
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 Моя GitHub Статистика
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Azures49&theme=dark&hide_border=true)](https://git.io/streak-stats)
+Здесь вы найдете мою основную статистику и самые используемые языки. Я выбрал популярную тему `dracula` для стильного вида!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azures49&layout=compact&theme=dark&hide_border=true)](https://github.com/Azures49)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azures49&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true" alt="Azures49 GitHub Stats" />
+</p>
 
----
-
-## 🌱 Сейчас изучаю
-
-- AI и машинное обучение 🤖  
-- DevOps и CI/CD ⚡  
-- Новые языки и фреймворки 🧩
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azures49&layout=compact&theme=dracula&hide_border=true" alt="Azures49 Top Languages" />
+</p>
 
 ---
 
-## 📫 Связаться со мной
+## 🐍 Мои Контрибуции в виде "Змейки"
 
-[![Telegram](https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?style=flat&logo=telegram)](https://t.me/USERNAME)  
-[![Email](https://img.shields.io/badge/Email-sergei@example.com-D14836?style=flat&logo=gmail)](mailto:sergei@example.com)
+Этот раздел покажет вам анимированную "Змейку", которая "ест" мои вклады (коммиты) на GitHub!
+
+**ВАЖНО:** Чтобы эта анимация работала, убедитесь, что вы настроили GitHub Action, как мы обсуждали ранее (создали файл `.github/workflows/snake.yml`).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azures49/Azures49/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Azures49/Azures49/output/github-snake.svg">
+</picture>
 
 ---
 
-> “Код — это поэзия, а GitHub — галерея” 🖌️
+### 🌐 Найти меня:
+
+* [Мой Twitter/X](https://twitter.com/Azures49) - *Замените на вашу ссылку*
+* [Мой LinkedIn](https://linkedin.com/in/Azures49) - *Замените на вашу ссылку*
