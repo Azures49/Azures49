@@ -7,7 +7,7 @@
 
 ## 🐍 Моя GitHub змейка
 
-![Snake animation](https://raw.githubusercontent.com/Azures49/Azures49/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Azures49/Azures49/output/github-contribution-grid-snake-dark.svg)
 
 > Змейка показывает мою активность на GitHub, динамически обновляется каждый день 🐍
 
