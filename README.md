@@ -31,8 +31,7 @@
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?style=flat&logo=telegram)](https://t.me/USERNAME)  
-[![Email](https://img.shields.io/badge/Email-sergei@example.com-D14836?style=flat&logo=gmail)](mailto:sergei@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?style=flat&logo=telegram)](https://t.me/Sergey_Rassamakhin)
 
 ---
 
